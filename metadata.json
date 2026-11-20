@@ -1,0 +1,8 @@
+{
+  "name": "GymPilot — Multi-Tenant Gym Management SaaS",
+  "description": "Enterprise multi-tenant gym management platform with role-based dashboards for super admins, gym owners, and members.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
